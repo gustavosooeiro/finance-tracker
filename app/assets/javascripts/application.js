@@ -16,3 +16,13 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
+
+
+/*
+// This code is for Rails 4
+$(document).ready(function(){
+  $('#stock-lookup-form').on('ajax:complete', function(event, data, status){
+    $('#results').html(data.responseText)
+  })
+})
+*/
