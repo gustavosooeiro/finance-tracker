@@ -12,6 +12,7 @@ gem 'twitter-bootstrap-rails'
 gem 'jquery'
 gem 'jquery-rails'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 
 gem 'bootstrap-sass', '~> 3.4.1'
 
